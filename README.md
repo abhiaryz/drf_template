@@ -1,1 +1,1 @@
-# drf_template
+Docker command to run "docker run -d -p 8080:8000" 
